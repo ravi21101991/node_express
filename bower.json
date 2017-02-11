@@ -1,0 +1,22 @@
+{
+  "name": "views",
+  "homepage": "https://github.com/ravi21101991/node_express",
+  "authors": [
+    "ravi nair <rnair@mobiquityinc.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
